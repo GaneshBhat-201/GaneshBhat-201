@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi , I'm Sriganesh B S</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/sriganesh-b-s-677b202ba/" target="_blank" rel="noreferrer">I'm</a>B.Tech Student🎓 @ RNS Institute of Technology 🅾️ majoring in Computer Science. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech</font></h3> <br/><br/>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/sriganesh-b-s-677b202ba/" target="_blank" rel="noreferrer">I'm</a> a B.Tech Student🎓 @ RNS Institute of Technology 🅾️ majoring in Computer Science. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech</font></h3> <br/><br/>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
