@@ -9,7 +9,7 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on React, Tailwand, Daisy UI, and everything around it.
+- I'm currently working on React, Tailwand, Daisy UI, and everything around it.
 - I’m looking to collaborate on **Full Stack Projects**
 
 
