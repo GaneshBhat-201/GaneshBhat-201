@@ -15,14 +15,17 @@
 
 
 #### Programming Language Stack
-<p align="left"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" width="40" height="40"/>  </p>
+<p align="left"> <li>Java</li> <li>C</li> <li>C++</li> <li>Python</li> <li>JavaScript</li> </p>
+
+#### Frameworks
+<p align="left"><li>Node.js</li><li>Express.js</li><li>React.js</li><li>Bootstrap</li><li>Tailwand</li></p>
 
 #### Database Stack
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  </p>
+<p align="left"><li>MongoDB</li> <li>SQL</li></p>
 
 
 #### Project Management Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> </p>
+<p align="left"><li>Git</li><li>GitHub</li> </p>
 
 #### Editor / IDE I ♥
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
